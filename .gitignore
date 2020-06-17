@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Configuração de ambiente de desenvolvimento
-staticfiles/
-mediafiles/
+# staticfiles/
+# mediafiles/
