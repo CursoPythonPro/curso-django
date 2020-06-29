@@ -7,3 +7,5 @@ Aplicação disponível em https://cursopythonprodjango.herokuapp.com/
 [![codecov](https://codecov.io/gh/CursoPythonPro/curso-django/branch/master/graph/badge.svg)](https://codecov.io/gh/CursoPythonPro/curso-django)
 [![Updates](https://pyup.io/repos/github/CursoPythonPro/curso-django/shield.svg)](https://pyup.io/account/repos/github/CursoPythonPro/curso-django/)
 [![Python 3](https://pyup.io/repos/github/CursoPythonPro/curso-django/python-3-shield.svg)](https://pyup.io/account/repos/github/CursoPythonPro/curso-django/)
+
+Jéssica Lima
